@@ -108,17 +108,7 @@ Special thanks to **Sabir K** for guidance and mentorship during this project.
 
 **Kevin Manjila**
 
-Interested in **Computer Vision, AI, and Machine Learning projects**.
 
-```
 
 ---
 
-✅ This README is **professional and good for GitHub + LinkedIn projects**.
-
-If you want, I can also give you **3 things that make your GitHub project look 10× more professional**:
-
-1. **Professional GitHub project structure**
-2. **GIF demo of your system running**
-3. **Project architecture diagram (very impressive for recruiters)**.
-```
